@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
+
+body {
+  font-family: "Coming Soon";
+  line-height: 2;
+}
+
+.highlight {
+  background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0),
+  yellow 85%, rgba(255, 255, 255, 0));
+}
+
+#text {
+  width: 40%;
+  margin: 0 auto;
+}
+
+#text p {
+  font-size: 18px;
+}
